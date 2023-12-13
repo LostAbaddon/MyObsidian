@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "80600799d3de07e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d61e5ba7e2da49f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25bc5b4b607c4b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adfbc3d4ddb244a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6285151341d63cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ebf445fe11e8a46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4fdbfb8952e9752",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d5429bfb9562fc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f200cabbd68d8ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b42236c54a64555b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3a48358904f099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e294e4f943ffd388",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82cdc2fe6de10b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef7087a069b337ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d29caf0a22d44eb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "157192ca29b47032",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "7d5054a59e04b141",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "3f200cabbd68d8ca",
+  "lastOpenFiles": [
+    "个人资料",
+    "AI相关/MultiAgent的三个不同层次.md",
+    "README.md",
+    "TestFolder",
+    "科普翻译/量子引力三大难题的解决之道.md",
+    "科普翻译/数学证明与计算机程序之间的深刻联系.md",
+    "科普翻译/这种量子理论可能是做对了的玻姆力学.md",
+    "科普翻译/数学证明为判断黑洞形成提供新的标准.md",
+    "科普翻译/搜索引擎正面临所有人都担心的问题.md",
+    "科普翻译/在几何学的“狂野西部”，数学家对球体进行新的定义.md",
+    "科普翻译",
+    "AI相关/几个方向.md",
+    "AI相关",
+    "几个方向.md",
+    "MultiAgent的三个不同层次.md"
+  ]
+}
