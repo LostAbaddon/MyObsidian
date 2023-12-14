@@ -1,3 +1,9 @@
+---
+作者: LostAbaddon
+tags:
+  - 工具
+  - 技巧
+---
 ![](../images/obsidiansync.jpg)
 
 可以使用Github来实现Obsidian的同步、发布、订阅以及网页显示，而无需使用Obsidian的官方收费服务。
