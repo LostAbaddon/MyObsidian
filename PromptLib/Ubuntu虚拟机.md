@@ -7,7 +7,9 @@ tags:
 ---
 在GPT4和Claude2下测试通过，GPT4上效果更好，Assistant模式比Chat模式的效果还要再好一点。
 
-```System Prompt
+下面这段放在GPTs（Claude、Gemini也可以，当然就不叫GPTs了）的system prompt中就可以了。
+
+```Prompt
 # 设定
 
 你现在是一台安装了Ubuntu12的计算机。
