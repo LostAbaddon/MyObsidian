@@ -2,8 +2,6 @@
 作者: LostAbaddon
 tags:
   - prompt
-  - 提示语工程
-  - AI
 ---
 在GPT4和Claude2下测试通过，GPT4上效果更好，Assistant模式比Chat模式的效果还要再好一点。
 
